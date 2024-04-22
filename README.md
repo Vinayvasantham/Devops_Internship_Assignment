@@ -27,10 +27,15 @@ Example:
 Expected Output:
 
 2024-04-23 09:00:00,001 - INFO - Monitoring log file 'sample-logfile.log'. Press Ctrl+C to stop.
+
 2024-04-23 09:00:05,123 - INFO - New log entry: Error occurred: Unable to connect to database.
+
 2024-04-23 09:00:10,456 - INFO - New log entry: HTTP 404 - Page not found.
+
 2024-04-23 09:00:15,789 - INFO - New log entry: Error occurred: File not found.
+
 2024-04-23 09:00:20,123 - INFO - New log entry: HTTP 500 - Internal server error.
+
 2024-04-23 09:00:25,456 - INFO - New log entry: HTTP 404 - Page not found.
 2024-04-23 09:00:30,789 - INFO - New log entry: Error occurred: Database connection timeout.
 2024-04-23 09:00:35,123 - INFO - New log entry: Error occurred: Out of memory.
