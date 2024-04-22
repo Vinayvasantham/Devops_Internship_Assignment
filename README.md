@@ -25,6 +25,7 @@ Example:
 - python log_monitor.py sample-logfile.log
 
 Expected Output:
+
 2024-04-23 09:00:00,001 - INFO - Monitoring log file 'sample-logfile.log'. Press Ctrl+C to stop.
 2024-04-23 09:00:05,123 - INFO - New log entry: Error occurred: Unable to connect to database.
 2024-04-23 09:00:10,456 - INFO - New log entry: HTTP 404 - Page not found.
