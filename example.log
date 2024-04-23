@@ -1,0 +1,57 @@
+2024-04-23 15:19:04,112 - INFO - Monitoring log file 'sample-logfile.txt'. Press Ctrl+C to stop.
+2024-04-23 15:19:04,113 - INFO - Total number of errors: 4
+2024-04-23 15:19:04,113 - INFO - Top error messages:
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:05,123 - INFO - Error occurred: Unable to connect to database. - Count: 1
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:15,789 - INFO - Error occurred: File not found. - Count: 1
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:30,789 - INFO - Error occurred: Database connection timeout. - Count: 1
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory. - Count: 1
+2024-04-23 15:19:04,113 - INFO - HTTP status codes:
+2024-04-23 15:19:04,113 - INFO - HTTP 404 - Count: 2
+2024-04-23 15:19:04,113 - INFO - HTTP 500 - Count: 1
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:05,123 - INFO - Error occurred: Unable to connect to database.
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:10,456 - INFO - HTTP 404 - Page not found.
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:15,789 - INFO - Error occurred: File not found.
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:20,123 - INFO - HTTP 500 - Internal server error.
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:25,456 - INFO - HTTP 404 - Page not found.
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:30,789 - INFO - Error occurred: Database connection timeout.
+2024-04-23 15:19:04,113 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory.
+2024-04-23 15:19:29,402 - INFO - Monitoring log file 'sample-logfile.txt'. Press Ctrl+C to stop.
+2024-04-23 15:19:29,402 - INFO - Total number of errors: 4
+2024-04-23 15:19:29,402 - INFO - Top error messages:
+2024-04-23 15:19:29,402 - INFO - 2024-04-23 09:00:05,123 - INFO - Error occurred: Unable to connect to database. - Count: 1
+2024-04-23 15:19:29,402 - INFO - 2024-04-23 09:00:15,789 - INFO - Error occurred: File not found. - Count: 1
+2024-04-23 15:19:29,403 - INFO - 2024-04-23 09:00:30,789 - INFO - Error occurred: Database connection timeout. - Count: 1
+2024-04-23 15:19:29,403 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory. - Count: 1
+2024-04-23 15:19:29,403 - INFO - HTTP status codes:
+2024-04-23 15:19:29,403 - INFO - HTTP 404 - Count: 2
+2024-04-23 15:19:29,403 - INFO - HTTP 500 - Count: 1
+2024-04-23 15:19:29,403 - INFO - 2024-04-23 09:00:05,123 - INFO - Error occurred: Unable to connect to database.
+2024-04-23 15:19:29,403 - INFO - 2024-04-23 09:00:10,456 - INFO - HTTP 404 - Page not found.
+2024-04-23 15:19:29,403 - INFO - 2024-04-23 09:00:15,789 - INFO - Error occurred: File not found.
+2024-04-23 15:19:29,403 - INFO - 2024-04-23 09:00:20,123 - INFO - HTTP 500 - Internal server error.
+2024-04-23 15:19:29,403 - INFO - 2024-04-23 09:00:25,456 - INFO - HTTP 404 - Page not found.
+2024-04-23 15:19:29,403 - INFO - 2024-04-23 09:00:30,789 - INFO - Error occurred: Database connection timeout.
+2024-04-23 15:19:29,403 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory.
+2024-04-23 15:23:06,561 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory.
+2024-04-23 15:23:19,958 - INFO - Monitoring stopped.
+2024-04-23 15:39:15,915 - INFO - Monitoring log file 'sample-logfile.txt'. Press Ctrl+C to stop.
+2024-04-23 15:39:15,916 - INFO - Total number of errors: 5
+2024-04-23 15:39:15,916 - INFO - Top error messages:
+2024-04-23 15:39:15,916 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory. - Count: 2
+2024-04-23 15:39:15,916 - INFO - 2024-04-23 09:00:05,123 - INFO - Error occurred: Unable to connect to database. - Count: 1
+2024-04-23 15:39:15,916 - INFO - 2024-04-23 09:00:15,789 - INFO - Error occurred: File not found. - Count: 1
+2024-04-23 15:39:15,916 - INFO - 2024-04-23 09:00:30,789 - INFO - Error occurred: Database connection timeout. - Count: 1
+2024-04-23 15:39:15,916 - INFO - HTTP status codes:
+2024-04-23 15:39:15,916 - INFO - HTTP 404 - Count: 2
+2024-04-23 15:39:15,916 - INFO - HTTP 500 - Count: 1
+2024-04-23 15:39:15,916 - INFO - 2024-04-23 09:00:05,123 - INFO - Error occurred: Unable to connect to database.
+2024-04-23 15:39:15,916 - INFO - 2024-04-23 09:00:10,456 - INFO - HTTP 404 - Page not found.
+2024-04-23 15:39:15,916 - INFO - 2024-04-23 09:00:15,789 - INFO - Error occurred: File not found.
+2024-04-23 15:39:15,916 - INFO - 2024-04-23 09:00:20,123 - INFO - HTTP 500 - Internal server error.
+2024-04-23 15:39:15,916 - INFO - 2024-04-23 09:00:25,456 - INFO - HTTP 404 - Page not found.
+2024-04-23 15:39:15,917 - INFO - 2024-04-23 09:00:30,789 - INFO - Error occurred: Database connection timeout.
+2024-04-23 15:39:15,917 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory.
+2024-04-23 15:39:15,917 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory.
+2024-04-23 15:39:40,942 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory.
+2024-04-23 15:41:28,570 - INFO - 2024-04-23 09:00:35,123 - INFO - Error occurred: Out of memory.
+2024-04-23 15:43:35,712 - INFO - Monitoring stopped.
